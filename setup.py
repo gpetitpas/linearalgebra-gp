@@ -7,7 +7,6 @@ setuptools.setup(
     name="linearalgebra-gp",
     version="0.0.1",
     author="Georges Petitpas",
-    author_email="gpetitpas2@gmail.com",
     description="Linear Algebra functions for python",
     long_description=long_description,
     long_description_content_type="text/markdown",
